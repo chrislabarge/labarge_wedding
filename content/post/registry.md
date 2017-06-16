@@ -16,7 +16,7 @@ date = "2017-06-05T22:29:16-04:00"
 </div>
 
 <div class='retailer'>
-<img src="/images/target-white.png" aria-hidden="true", height='100' width='100'>
+<img src="/images/target-white.png" aria-hidden="true">
 <h2>Target</h2>
 <a target="_blank" href="https://www.target.com/gift-registry/giftgiver?registryId=554f61af25ef4650ab90e199b962acb7" class='button'> Show Registry</a>
 </div>
