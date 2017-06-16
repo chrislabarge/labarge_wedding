@@ -1,6 +1,6 @@
 baseurl = "http://example.org"
 title = "LaBarge Wedding"
-theme = "LaBarge Wedding"
+theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -9,7 +9,7 @@ disableRSS = true
 [params]
   title = "Dimension"
   description = '<!--[-->You are invited to celebrate the marriage of Jessica Palmieri and Christopher LaBarge. <!--]--><br />
-                 <!--[-->September 30th, 2017 at the <a>New York State Museum</a>.<!--]-->'
+                 <!--[-->September 30th, 2017 at the <a target="_blank" href="https://www.google.com/search?q=new+york+state+museum&oq=new+york">New York State Museum</a>.<!--]-->'
   logo = "fa-heart"
   copyright = "Untitled"
 

@@ -930,7 +930,7 @@ button {
       border-left: solid 1px #ffffff; }
       #header nav ul li:first-child {
         border-left: 0; }
-      #header nav ul li a {
+      #header nav ul li a, .retailer a.button {
         display: block;
         min-width: 7.5rem;
         height: 2.75rem;
@@ -1147,3 +1147,67 @@ button {
     opacity: 0; }
 
 /*# sourceMappingURL=main.css.map */
+
+/* Wedding Custom Styles */
+
+#bg:after {
+  transform: none;
+}
+
+#header .content p {
+  font-size: 1.0em;
+}
+
+article#registry h1 {
+    text-align: center;
+}
+
+#main article {
+  padding-bottom: 30px;
+  text-align: center;
+};
+
+.registry-options {
+  text-align: center;
+  display: inline;
+}
+
+.registry-options .circular {
+  height: 160px;
+  width: 160px;
+}
+
+.retailer {
+  display: inline-block;
+  padding-right: 30px;
+  margin-bottom: 30px;
+}
+
+.retailer h2 {
+  text-transform: none;
+  letter-spacing: 0.25rem;
+}
+
+.retailer i {
+  font-size: 4em;
+  padding-bottom: 7px;
+}
+
+.retailer img {
+  height: 70px;
+  width: 70px;
+}
+
+.circular {
+  border-radius: 100% !important;
+}
+
+ @media screen and (max-width: 480px) {
+  #main article {
+    padding-bottom: 10px;
+  }
+
+  .retailer {
+    padding-right: 0px;
+  }
+ }
