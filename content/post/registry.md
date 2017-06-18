@@ -8,7 +8,7 @@ date = "2017-06-05T22:29:16-04:00"
 
 <div class="registry-options">
 <img class="circular" src="/images/front-face.png" aria-hidden="true">
-<p>You may use either of the following retailers:</p>
+<p>We are registered at following retailers:</p>
 <div class='retailer'>
 <i class="fa fa-amazon" aria-hidden="true"></i>
 <h2>Amazon</h2>

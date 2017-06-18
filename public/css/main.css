@@ -1172,6 +1172,11 @@ article#registry h1 {
   display: inline;
 }
 
+.registry-options p {
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+}
+
 .registry-options .circular {
   height: 160px;
   width: 160px;
@@ -1203,8 +1208,13 @@ article#registry h1 {
 }
 
  @media screen and (max-width: 480px) {
+
   #main article {
     padding-bottom: 10px;
+  }
+
+  #bg:after {
+    background-image: url('/images/bg-mobile.jpg');
   }
 
   .retailer {
