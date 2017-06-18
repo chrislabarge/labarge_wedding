@@ -1221,3 +1221,9 @@ article#registry h1 {
     padding-right: 0px;
   }
  }
+
+@media screen and (min-width: 1650px) {
+  .retailer i {
+    font-size: 3.35em;
+  }
+}
