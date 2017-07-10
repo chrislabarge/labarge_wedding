@@ -3,13 +3,34 @@
 
   
   <url>
-    <loc>http://labargewedding.com/#</loc>
-    <lastmod>2017-06-05T22:29:16-04:00</lastmod>
+    <loc>http://labargewedding.com/#rsvp</loc>
   </url>
   
   <url>
     <loc>http://labargewedding.com/#registry</loc>
     <lastmod>2017-06-05T22:29:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://labargewedding.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labargewedding.com/#</loc>
+    <lastmod>2017-06-05T22:29:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labargewedding.com/#</loc>
+    <lastmod>2017-06-05T22:29:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://labargewedding.com/#</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
