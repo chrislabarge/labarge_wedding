@@ -22,13 +22,13 @@ draft = true
 	<input type="hidden" name="_subject" value="Subject for your mail like new message" />
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
-<span id="contactformsent">Thank you for your message</span>
+<span id="contactformsent">Thank you for your sending your RSVP.  We cannot wait to see you at the wedding!</span>
 
 <script>
 $(document).ready(function($) {
     $(function(){
         if (window.location.search == "?sent") {
-        	$('#contactform').hide();
+            $('#contactform').hide();
         	$('#contactformsent').show();
         } else {
         	$('#contactformsent').hide();
