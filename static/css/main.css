@@ -1177,6 +1177,7 @@ article#registry h1 {
   text-transform: uppercase;
 }
 
+#rsvp .circular,
 .registry-options .circular {
   height: 160px;
   width: 160px;
@@ -1202,6 +1203,8 @@ article#registry h1 {
   height: 70px;
   width: 70px;
 }
+
+
 
 .circular {
   border-radius: 100% !important;

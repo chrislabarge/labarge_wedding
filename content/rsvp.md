@@ -3,7 +3,7 @@ title = "RSVP"
 weight = 60
 draft = true
 +++
-
+<img class="" style='width:100%; border-radius: 6px;' src="/images/personal.jpg" aria-hidden="true">
 <form id="contactform" method="post" action="https://formspree.io/labargeintraining@gmail.com">
 	<div class="field">
 		<input type="text" name="name" id="name" placeholder="Name of Attendees (First & Last)"/>
