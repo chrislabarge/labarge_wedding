@@ -12,6 +12,7 @@ disableRSS = true
                  <!--[-->September 30th, 2017 at the <a target="_blank" href="https://www.google.com/search?q=new+york+state+museum&oq=new+york">New York State Museum</a>.<!--]-->'
   logo = "fa-heart"
   copyright = "Untitled"
+  class = "no-photoswipe"
 
 [[params.social]]
   medium = "twitter"
@@ -32,6 +33,9 @@ disableRSS = true
   medium = "github"
   icon = "github"
   link = "#"
+
+[figure]
+  class = "no-photoswipe"
 
 [languages]
 [languages.en]
